@@ -20,3 +20,4 @@ Logistic Regression, Cross Validation, Bias, Bias Variance Measures and Bias Var
 For the Final Project of this class I decided to create a research paper based on Unsupervised Learning Using K-Nearest Neighbors
 since machine learning is a topic I am very interested in. It was a fun experience learning about this topic and the algorithms
 behind it.
+![screen shot 2018-01-02 at 9 30 45 pm](https://user-images.githubusercontent.com/26131181/34507510-b8c6940e-f004-11e7-8f67-60855e9367f4.png)
