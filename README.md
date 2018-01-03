@@ -1,5 +1,6 @@
 # R-Statistics-Work
 Course Work During The Fall 2017 Semester Programming with R
+All R commands and Explananations are held within the PDFS of the folders
 
 Statistics 3155:
 Regression and Forecasting Models for Business Applications:
